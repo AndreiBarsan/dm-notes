@@ -67,3 +67,4 @@ output
 *.fdb_latexmk
 *.fls
 *.out
+.ipynb_checkpoints/
