@@ -68,3 +68,4 @@ output
 *.fls
 *.out
 .ipynb_checkpoints/
+data/
